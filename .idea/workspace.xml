@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7a34657d-5bb5-417f-a576-8fa8c66fb5f4" name="Changes" comment="" />
+    <list default="true" id="7a34657d-5bb5-417f-a576-8fa8c66fb5f4" name="Changes" comment="updated">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,25 +15,37 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;leekalee&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/leekalee/AiFrameworkLeeAngelika.git&quot;,
+    &quot;accountId&quot;: &quot;116882dd-e426-4a5a-a470-73199264e183&quot;
+  }
+}</component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0" />
-      <entry key="S2" value="1.0" />
-      <entry key="S5" value="1.0" />
-      <entry key="S10" value="1.0" />
-      <entry key="S30" value="1.0" />
-      <entry key="S60" value="1.0" />
-      <entry key="M2" value="1.0" />
-      <entry key="M5" value="1.0" />
-      <entry key="M10" value="1.0" />
-      <entry key="M15" value="1.0" />
-      <entry key="M30" value="1.0" />
-      <entry key="H1" value="1.0" />
-      <entry key="H2" value="1.0" />
-      <entry key="H4" value="1.0" />
-      <entry key="D1" value="1.0" />
-      <entry key="W1" value="1.0" />
+      <entry key="MS100" value="1.0000408303086787" />
+      <entry key="MS500" value="1.1324940979246605" />
+      <entry key="S2" value="1.6034498993559119" />
+      <entry key="S5" value="1.857600089989795" />
+      <entry key="S10" value="2.264746992275311" />
+      <entry key="S30" value="4.018278370335015" />
+      <entry key="S60" value="5.543116246778111" />
+      <entry key="M2" value="6.927975444983674" />
+      <entry key="M5" value="8.318973352147339" />
+      <entry key="M10" value="9.028959398248135" />
+      <entry key="M15" value="9.316582466383245" />
+      <entry key="M30" value="9.638030064292797" />
+      <entry key="H1" value="9.813476519526645" />
+      <entry key="H2" value="9.905289142875924" />
+      <entry key="H4" value="9.952273871418125" />
+      <entry key="D1" value="9.991993426995293" />
+      <entry key="W1" value="9.998854915376088" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -53,29 +67,29 @@
       <entry key="W1" value="0.0" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.757858283255199" />
-      <entry key="MS500" value="0.9460576467255959" />
-      <entry key="S2" value="0.9862327044933592" />
-      <entry key="S5" value="0.9944701686732144" />
-      <entry key="S10" value="0.9972312513520695" />
-      <entry key="S30" value="0.9990762306970642" />
-      <entry key="S60" value="0.9995380086305193" />
-      <entry key="M2" value="0.9997689776295918" />
-      <entry key="M5" value="0.9999075846464872" />
-      <entry key="M10" value="0.9999537912556196" />
-      <entry key="M15" value="0.9999691939331584" />
-      <entry key="M30" value="0.9999845968479506" />
-      <entry key="H1" value="0.9999922983943179" />
-      <entry key="H2" value="0.9999961491897447" />
-      <entry key="H4" value="0.9999980745930187" />
-      <entry key="D1" value="0.999999679098579" />
-      <entry key="W1" value="0.9999999541569335" />
+      <entry key="MS100" value="0.7792037467105962" />
+      <entry key="MS500" value="1.0827148899677628" />
+      <entry key="S2" value="1.5897973140365989" />
+      <entry key="S5" value="1.851918129318062" />
+      <entry key="S10" value="2.2617303975995853" />
+      <entry key="S30" value="4.016876908829978" />
+      <entry key="S60" value="5.542217232534735" />
+      <entry key="M2" value="6.9274303231134144" />
+      <entry key="M5" value="8.318704273500568" />
+      <entry key="M10" value="9.028807770641246" />
+      <entry key="M15" value="9.316476261022977" />
+      <entry key="M30" value="9.637973946670712" />
+      <entry key="H1" value="9.813447606449818" />
+      <entry key="H2" value="9.905274458670863" />
+      <entry key="H4" value="9.952266470531008" />
+      <entry key="D1" value="9.99199218518589" />
+      <entry key="W1" value="9.99885473776862" />
     </decayedShown>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7,
-  "fromUser": false
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3KiTAsOQw1rApQgt7mT7U68VDd8" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -85,10 +99,10 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "master",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
@@ -102,6 +116,19 @@
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="AiFrameworkLeeAngelika" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="AiFrameworkLeeAngelika" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -122,6 +149,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
